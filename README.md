@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProttoyKumar
-- 👀 I’m interested in data science and ML
-- 🌱 I’m currently learning different ML algorithms 
+- 👀 I’m interested in data science, machine learning, deep learning. Especially I'm interested in computer vision and image processing.
+- 🌱 I’m currently a Master's student at AIUB Computer Science department. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
