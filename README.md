@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td><b>Location</b></td>
-    <td>Dhaka, Bangladesh 🇧🇩</td>
+    <td>Dhaka, Bangladesh</td>
   </tr>
   <tr>
     <td><b>Focus</b></td>
@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td><b>Education</b></td>
-    <td>MSc in Computer Science</td>
+    <td>MSc in Computer Science, American International University-Bangladesh (AIUB)</td>
   </tr>
   <tr>
     <td><b>Learning</b></td>
@@ -72,13 +72,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prottoy-Kumar-Prodhan&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProttoyKumar&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prottoy-Kumar-Prodhan&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProttoyKumar&layout=compact" />
 </p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Let's connect and collaborate on Data, Analytics & AI Projects!
