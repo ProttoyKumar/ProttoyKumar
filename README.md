@@ -44,11 +44,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="linkedin.com/in/prottoy-kumar-prodhan-joy-98a297210" target="_blank">
+<a href="https://linkedin.com/in/prottoy-kumar-prodhan-joy-98a297210" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="github.com/ProttoyKumar" target="_blank">
+<a href="https://github.com/ProttoyKumar" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
