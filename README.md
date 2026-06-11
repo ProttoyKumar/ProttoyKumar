@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Prottoy Kumar Prodhan Joy</h1>
+<h1 align="center">Hello, I'm Prottoy 👋</h1>
 
-<h3 align="center">Data Analyst | I can make your data to confess insights</h3>
+<h3 align="center">Data Analyst | Driving Business Impact with Data</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prottoy-Kumar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -18,12 +18,14 @@
 - Power BI
 - MySQL
 - Python
+- Deep Learning
+- Computer Vision
 
 📊 Interested in:
-- Data Analytics
-- Business Intelligence
-- Data Visualization
-- ETL & Data Pipelines
+- AI-Powered Data Analytics
+- Business Intelligence & Reporting
+- Data Visualization & Storytelling
+- ETL Development & Data Pipelines
 - Deep Learning
 - Computer Vision
 
@@ -62,22 +64,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prottoy-Kumar&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prottoy-Kumar-Prodhan&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prottoy-Kumar&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prottoy-Kumar-Prodhan&layout=compact" />
 </p>
-
----
-
-## 🎯 2026 Goals
-
-- Build 10+ Data Analytics Projects
-- Master Power BI & DAX
-- Learn Data Engineering Fundamentals
-- Contribute to Open Source
-- Land a Data Analyst / Analytics Engineer role
 
 ---
 
