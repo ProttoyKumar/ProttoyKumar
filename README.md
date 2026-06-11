@@ -8,26 +8,34 @@
 
 ---
 
-## 🚀 About Me
+<h2>👨‍💻 About Me</h2>
 
-🔍 Passionate about transforming raw data into meaningful business insights.
-
-🌱 Currently learning and building projects with:
-
-- Advanced Excel
-- Power BI
-- MySQL
-- Python
-- Deep Learning
-- Computer Vision
-
-📊 Interested in:
-- AI-Powered Data Analytics
-- Business Intelligence & Reporting
-- Data Visualization & Storytelling
-- ETL Development & Data Pipelines
-- Deep Learning
-- Computer Vision
+<table>
+  <tr>
+    <td><b>Role</b></td>
+    <td>Data Analyst</td>
+  </tr>
+  <tr>
+    <td><b>Location</b></td>
+    <td>Dhaka, Bangladesh 🇧🇩</td>
+  </tr>
+  <tr>
+    <td><b>Focus</b></td>
+    <td>Data Analytics, Business Intelligence & AI-Powered Insights</td>
+  </tr>
+  <tr>
+    <td><b>Education</b></td>
+    <td>MSc in Computer Science</td>
+  </tr>
+  <tr>
+    <td><b>Learning</b></td>
+    <td>Power BI · SQL · Python · R · Machine Learning</td>
+  </tr>
+  <tr>
+    <td><b>Interests</b></td>
+    <td>AI-Powered Data Analytics · ETL Pipelines · Deep Learning · Computer Vision</td>
+  </tr>
+</table>
 
 📫 Reach me at: **prottoy.prodhan03@gmail.com**
 
