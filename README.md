@@ -52,7 +52,12 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
+<a href="">
 
+<a href="https://scholar.google.com/citations?hl=en&user=2UeFLpMAAAAJ">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## ⚡Tech Stack
