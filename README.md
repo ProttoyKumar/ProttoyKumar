@@ -8,8 +8,7 @@
 
 ---
 
-<h2>Clean
-🌟 About Me</h2>
+<h2>🎯 Profile Overview</h2>
 
 <table>
   <tr>
