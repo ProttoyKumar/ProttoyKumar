@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Prottoy 👋</h1>
+<h1 align="center">Hi there, I'm Prottoy 👋</h1>
 
 <h3 align="center">Data Analyst | Driving Business Impact with Data</h3>
 
@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td><b>Focus</b></td>
-    <td>Data Analytics, Business Intelligence & AI-Powered Insights</td>
+    <td>Data Analytics, Business Intelligence & AI-Powered Insights, Deep Learning</td>
   </tr>
   <tr>
     <td><b>Education</b></td>
@@ -41,7 +41,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
 
 <p align="left">
 <a href="https://linkedin.com/in/prottoy-kumar-prodhan-joy-98a297210" target="_blank">
@@ -55,7 +55,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## ⚡Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,mysql,power bi,git,github,vscode" />
