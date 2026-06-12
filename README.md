@@ -8,7 +8,8 @@
 
 ---
 
-<h2>👨‍💻 About Me</h2>
+<h2>Clean
+🌟 About Me</h2>
 
 <table>
   <tr>
