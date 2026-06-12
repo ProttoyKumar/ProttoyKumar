@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td><b>Education</b></td>
-    <td>MSc in Computer Science, American International University-Bangladesh (AIUB)</td>
+    <td>MSc in Computer Science, AIUB</td>
   </tr>
   <tr>
     <td><b>Learning</b></td>
@@ -54,10 +54,11 @@
 </p>
 <a href="">
 
-<a href="https://scholar.google.com/citations?hl=en&user=2UeFLpMAAAAJ">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<a href="https://scholar.google.com/citations?user=2UeFLpMAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ## ⚡Tech Stack
