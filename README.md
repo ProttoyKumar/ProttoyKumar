@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-📫 Reach me at: **prottoy.prodhan03@gmail.com**
+📧 Contact: prottoy.prodhan03@gmail.com
 
 ---
 
