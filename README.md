@@ -31,11 +31,10 @@ Data Analyst with an educational background in Statistics and Computer Science. 
 
 ---
 
-## 📊 GitHub Statistics
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProttoyKumar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=ProttoyKumar&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/ProttoyKumar">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
