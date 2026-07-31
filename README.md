@@ -8,7 +8,7 @@
 <h2 align="center">👋 Hi, I'm Prottoy Kumar Prodhan Joy</h2>
 
 <p align="center">
-Data Analyst with an educational background in Statistics and Computer Science. Skilled in Python, SQL, Power BI, and Excel, I enjoy uncovering hidden patterns in data, building interactive dashboards, and translating complex analyses into actionable insights for non-technical stakeholders.
+Data Analyst with an educational background in Statistics and Computer Science. Skilled in data analysis, statistical modeling, and data visualization, I enjoy uncovering hidden patterns in data, building interactive dashboards, and translating complex analyses into actionable insights for both technical and non-technical stakeholders. I also have knowledge of computer vision, particularly object detection and image classification. Interested in contributing to open-source projects. 
 </p>
 
 ---
