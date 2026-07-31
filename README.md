@@ -5,11 +5,7 @@
 <h2 align="center">👋 Hi, I'm Prottoy Kumar Prodhan Joy</h2>
 
 <p align="center">
-  <b>Data Analyst</b>
-</p>
-
-<p align="center">
-Passionate about transforming data into meaningful insights through analytics, visualization, and machine learning.
+Data Analyst with an educational background in Statistics and Computer Science. Skilled in Python, SQL, Power BI, and Excel, I enjoy uncovering hidden patterns in data, building interactive dashboards, and translating complex analyses into actionable insights for non-technical stakeholders.
 </p>
 
 ---
