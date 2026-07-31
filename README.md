@@ -2,7 +2,7 @@
   <img src="Banner.png"
        alt="GitHub Banner"
        width="80%"
-       height="500">
+       height="450">
 </p>
 
 <h2 align="center">👋 Hi, I'm Prottoy Kumar Prodhan Joy</h2>
