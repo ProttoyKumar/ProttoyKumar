@@ -1,7 +1,7 @@
 <p align="center">
   <img src="Banner.png"
        alt="GitHub Banner"
-       width="80%"
+       width="100%"
        height="450">
 </p>
 
