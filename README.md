@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" alt="GitHub Profile Banner" width="100%">
+  <img src="Banner.png" alt="GitHub Banner" width="80%">
 </p>
 
 <h2 align="center">👋 Hi, I'm Prottoy Kumar Prodhan Joy</h2>
